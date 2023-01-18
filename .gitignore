@@ -133,3 +133,4 @@ dist
 */**/.exercism
 */**/HINTS.md
 */**/HELP.md
+*/**/pnpm-lock.yaml
